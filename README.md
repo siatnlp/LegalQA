@@ -14,7 +14,7 @@ A Chinese question answering dataset for legal advice.
 
  1. LegalQA-manual
  
- | Train | Dev | Test
+sets | Train | Dev | Test
 ---- | --- | --- | ---
 Number of questions | 783 | 93 | 136
 Number of answers | 3121 | 602 | 865
@@ -23,7 +23,7 @@ Average length of answers  | 41 | 45 | 43
 
  2. LegalQA-all
  
- | Train | Dev | Test
+sets | Train | Dev | Test
 ---- | --- | --- | ---
 Number of questions | 10526 | 1593 | 3035
 Number of answers | 21237 | 2866 | 6091
