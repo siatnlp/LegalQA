@@ -13,21 +13,21 @@ A Chinese question answering dataset for legal advice.
 ## Statistics ##
 
  1. LegalQA-manual
-\# | Train | Dev | Test
+ | Train | Dev | Test
 ---- | --- | --- | ---
 Number of questions | 783 | 93 | 136
 Number of answers | 3121 | 602 | 865
 Average length of questions | 160 | 180 | 159
 Average length of answers  | 41 | 45 | 43
  2. LegalQA-all
-\# | Train | Dev | Test
+ | Train | Dev | Test
 ---- | --- | --- | ---
 Number of questions | 10526 | 1593 | 3035
 Number of answers | 21237 | 2866 | 6091
 Average length of questions | 160 | 173 | 168
 Average length of answers  | 41 | 40 | 42
  3. Details
-Dataset(train/dev/test) | \#Question | \#QA Pairs | %Correct
+Dataset(train/dev/test) | #Question | #QA Pairs | %Correct
 ---- | --- | --- | ---
 LegalQA(manual) | 783/93/136 | 7,258/816/1,169 | 21.8/23.3/23.9
 LegalQA(all) | 10,526/1,593/3,035 | 100,590/11,965/26,913 | 21.8/24.4/22.9
